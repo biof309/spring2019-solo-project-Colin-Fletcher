@@ -3,13 +3,14 @@ myproject
 =========
 
 
-Add a short description here!
+Searching for Phenotypic Information with a Gene Name¶
+
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+The International Mouse Phenotyping Consortium makes knockout mice, phenotypes them, and disseminates the data from www.impc.org. Searching the website to find data for a specific gene is somewhat cumbersome and a script to quickly return phenotype data for a gene would be useful.
 
 
 Note
