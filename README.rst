@@ -3,7 +3,7 @@ myproject
 =========
 
 
-Searching for Phenotypic Information with a Gene Name¶
+Searching for Phenotypic Information with a Gene Name
 
 
 
